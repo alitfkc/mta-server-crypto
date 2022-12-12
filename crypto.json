@@ -1,7 +1,7 @@
 {
   "crypto":{
-  "Bitcoin":"1920",
-  "Ethereum":"1900",
+  "1":"Bitcoin":"1920",
+  "2":"Ethereum":"1900"
 
   }
 }
