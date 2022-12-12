@@ -1,6 +1,12 @@
 {
   "crypto":[
-  ["Bitcoin","1920"],
-  ["Ethereum","1920"]
+  ["Bitcoin","3422"],
+  ["Ethereum","2422"],
+  ["Tether","242"],
+  ["BNB","2000"],
+  ["XRP","897"],
+  ["METASCRİPT","999999"],
+  ["Dogecoin","2223"],
+  ["Polygon","213"]
   ]
 }
